@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Python Face Detection<br>👯 I’m looking to collaborate on<br>[]<br>🤝 I’m looking for help with<br>[]<br>🌱 I’m currently learning<br>[]<br>💬 Ask me about<br>[]<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arsim_ajv) 
 
